@@ -7,7 +7,7 @@ However two settings that you must expose your system for the assignment are:
 
 1.The Delay (RTT) of 10ms with the Loss rate of 1% 
 
-2. The Delay (RTT) of 200ms with the Loss rate of 20%
+2.The Delay (RTT) of 200ms with the Loss rate of 20%
 
 
-We developed the code which achieve 45 Mbps under 1st condition and 30 Mbps under 2nd Connection
+The developed code achieves 45 Mbps under 1st condition and 30 Mbps under 2nd condition
